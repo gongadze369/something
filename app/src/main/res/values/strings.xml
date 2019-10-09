@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cute bug</string>
+    <string name="button">login</string>
+    <string name="textvew">log in</string>
+    <string name="textvew1">password</string>
+    <string name="textbox"></string>
+    <string name="textbox1"></string>
+    <string name="image"></string>
+    <string name="textvew2">@appcorp</string>
+</resources>
